@@ -86,7 +86,7 @@ ViT (Global Attention)                 │
 ## 📁 Project Structure
 
 ```
-deepfake-detector/
+deepfake_videodetection/
 │
 ├── app.py                        # Gradio web app & UI
 ├── model.py                      # HybridDeepfakeDetector architecture
@@ -109,8 +109,8 @@ deepfake-detector/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/deepfake-detector.git
-cd deepfake-detector
+git clone https://github.com/ManasiKhaire/deepfake_videodetection.git
+cd deepfake_videodetection
 
 # 2. Install dependencies
 pip install -r requirements.txt
