@@ -121,6 +121,11 @@ pip install -r requirements.txt
 # 4. Run the app
 python app.py
 ```
+# Download Model Weights
+The model weights file is too large for GitHub.
+📥 [Download deepfake_model_weights.pth](https://drive.google.com/file/d/12G2PlUNJChFHwZCe91T2twv0xu01lXCJ/view?usp=sharing)
+
+Place the downloaded .pth file in the root folder of the project before running app.py
 
 The Gradio interface will launch in your browser at `http://localhost:7860`
 
